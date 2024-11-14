@@ -1,0 +1,23 @@
+body{
+   font-family: 'Comic Sans MS'
+
+}
+
+div{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+
+}
+
+fieldset{
+    width: 300px;
+    border: 5px solid rgb(218, 218, 218);
+    align-items: center;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+
+}
